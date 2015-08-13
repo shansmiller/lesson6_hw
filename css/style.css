@@ -1,0 +1,19 @@
+body{
+	background: teal;
+	margin:0px;
+	padding:0px;
+}
+
+#socialIcons{
+	border:solid 1px #000;
+	width:100%;
+	text-align:center;
+	position:absolute;
+	/*trick that sets box in middll*/
+	height:200px;
+	top:0px;
+	bottom:0px;
+	margin-top: auto;
+	margin-bottom: auto;
+	/*trick that sets box in middll*/
+}
